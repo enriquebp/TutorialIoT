@@ -1,2 +1,0 @@
-- [Makefile Tutorial](#makefile-tutorial)
-	- [Makefile Syntax](#makefile-syntax)
